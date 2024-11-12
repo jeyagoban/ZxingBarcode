@@ -1,0 +1,13 @@
+D:\Knowledge\Scanning\ScanApp\ScanApp\bin\Debug\net8.0\ScanApp.deps.json
+D:\Knowledge\Scanning\ScanApp\ScanApp\bin\Debug\net8.0\ScanApp.dll
+D:\Knowledge\Scanning\ScanApp\ScanApp\bin\Debug\net8.0\ScanApp.pdb
+D:\Knowledge\Scanning\ScanApp\ScanApp\obj\Debug\net8.0\ScanApp.csproj.AssemblyReference.cache
+D:\Knowledge\Scanning\ScanApp\ScanApp\obj\Debug\net8.0\ScanApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Knowledge\Scanning\ScanApp\ScanApp\obj\Debug\net8.0\ScanApp.AssemblyInfoInputs.cache
+D:\Knowledge\Scanning\ScanApp\ScanApp\obj\Debug\net8.0\ScanApp.AssemblyInfo.cs
+D:\Knowledge\Scanning\ScanApp\ScanApp\obj\Debug\net8.0\ScanApp.csproj.CoreCompileInputs.cache
+D:\Knowledge\Scanning\ScanApp\ScanApp\obj\Debug\net8.0\XamlC.stamp
+D:\Knowledge\Scanning\ScanApp\ScanApp\obj\Debug\net8.0\ScanApp.dll
+D:\Knowledge\Scanning\ScanApp\ScanApp\obj\Debug\net8.0\refint\ScanApp.dll
+D:\Knowledge\Scanning\ScanApp\ScanApp\obj\Debug\net8.0\ScanApp.pdb
+D:\Knowledge\Scanning\ScanApp\ScanApp\obj\Debug\net8.0\ref\ScanApp.dll
